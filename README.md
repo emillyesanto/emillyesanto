@@ -18,4 +18,9 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## ⚙️ Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=github,visualstudio,discord)](https://skillicons.dev)<br><br>
 
+📫 Meus Contatos
+
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/emyzth)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/emillyesanto)
+
 Fique à vontade para entrar em contato comigo sobre qualquer assunto relacionado à programação. Estou animada para ouvir de você! :)
